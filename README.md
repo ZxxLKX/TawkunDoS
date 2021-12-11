@@ -2,7 +2,8 @@
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Bandhitawkunthi)](https://github.com/Bandhitawkunthi)
 <img src="https://g.top4top.io/p_2171newd20.png"></img>
 # Tawkun DoS
-Tools untuk melakukan suatu serangan DDOS ke website dengan menggunakan socks & proxy JANGAN MENYELAHGUNAKAN TOOL INI!!!
+Tools untuk melakukan suatu serangan DDOS ke website dengan menggunakan socks & proxy 
+JANGAN MENYELAHGUNAKAN TOOL INI!!!
 
 
 Report jika ada bug woyyy
