@@ -19,27 +19,23 @@ Tool ini menggunakan python3
 
 Install request:
 ```
-pip3 install pysocks
-pip3 install bs4
+$ pip3 install pysocks
+$ pip3 install bs4
 ```
 Install Proxy:
 ```
-pip3 install pysocks
-pip3 install bs4
-cd TawkunDoS
-python3 TawkunProxy.py
+$ cd TawkunDoS
+$ python3 TawkunProxy.py
 ```
 Install Socks:
 ```
-pip3 install pysocks
-pip3 install bs4
-cd TawkunDoS
-python3 TawkunSOCKS.py
+$ cd TawkunDoS
+$ python3 TawkunSOCKS.py
 ```
 Runn:
 ```
-cd TawkunDoS
-python3 Tawkun.py
+$ cd TawkunDoS
+$ python3 Tawkun.py
 ```
 
 
