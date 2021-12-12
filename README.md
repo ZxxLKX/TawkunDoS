@@ -6,8 +6,11 @@
 Tools untuk melakukan suatu serangan DDOS ke website dengan menggunakan socks & proxy 
 JANGAN MENYELAHGUNAKAN TOOL INI!!!
 
-
-Report jika ada bug woyyy
+FITUR:
+- [☯️] Proxy Mode
+- [🔥] SOCKS Mode | Kadang Eror
+- [☢️] Http/s DDOS
+- [🐍] URL/IP
 
 <h2>Cara Install</h2>
 Tool ini menggunakan python3 
@@ -45,5 +48,4 @@ Winzoz:
 <Img src="https://h.top4top.io/p_21716qb480.jpg"></img>
 <Img src="https://j.top4top.io/p_21717z2381.jpg"></img>
 <Img src="https://i.top4top.io/p_2171bn9ub0.jpg"></img>
-
 
