@@ -3,8 +3,8 @@
 [![V0.1](https://img.shields.io/badge/-V0.1-black?style=flat&logo=&link=https://github.com/Bandhitawkunthi)](https://github.com/Bandhitawkunthi)
 <img src="https://h.top4top.io/p_2171cxqxf0.jpeg"></img>
 # ☢️Tawkun DoS☢️
-Tools untuk melakukan suatu serangan DDOS ke website dengan menggunakan socks & proxy 
-JANGAN MENYELAHGUNAKAN TOOL INI!!!
+Tools ini hanya bisa digunakan untuk menyerang website atau http/s 
+
 
 FITUR:
 - [☯️] Proxy Mode
