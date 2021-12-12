@@ -41,7 +41,8 @@ Winzoz:
 <pre>py -m pip install pysocks</pre>
 
 <h1>Gass Entod Webbnyaaaaa:+1:</h1>
-<Img src="https://i.top4top.io/p_2171v8om41.png"></img>
 <Img src="https://h.top4top.io/p_21716qb480.jpg"></img>
+<Img src="https://j.top4top.io/p_21717z2381.jpg"></img>
+<Img src="https://i.top4top.io/p_2171bn9ub0.jpg"></img>
 
 
