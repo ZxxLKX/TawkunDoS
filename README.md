@@ -41,8 +41,7 @@ Runn:
 cd TawkunDoS
 python3 Tawkun.py
 ```
-Winzoz:
-<pre>py -m pip install pysocks</pre>
+
 
 <h1>Gass Entod Webbnyaaaaa:+1:</h1>
 <Img src="https://h.top4top.io/p_21716qb480.jpg"></img>
