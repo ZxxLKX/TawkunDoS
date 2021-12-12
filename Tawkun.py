@@ -510,7 +510,7 @@ def proxymode():
 
 def choiceproxysocks():
 	global choice3
-	choice3 = input("Ketik '0' untuk nonaktifkan proxymode atau Ketik '1' Untuk mengaktifkan socksmode: ")
+	choice3 = input("Ketik '0' untuk aktifkan proxymode atau Ketik '1' Untuk mengaktifkan socksmode: ")
 	if choice3 == "0":
 		choicedownproxy()
 	elif choice3 == "1":
