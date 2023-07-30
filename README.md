@@ -15,7 +15,7 @@ FITUR:
 <h2>Cara Install</h2>
 Tool ini menggunakan python3 
 
-<pre>git clone https://github.com/Bandhitawkunthi/TawkunDoS</pre>
+<pre>git clone https://github.com/ZxxLKX/TawkunDoS</pre>
 
 Install request:
 ```
